@@ -8,131 +8,132 @@
     }
   ],
 
-  "CupData": [
-    {
-      "ID": 2101,
-      "Name": "BRI Super League",
-      "ImageURL": "https://static.cdnlogo.com/logos/b/62/bri-super-league-indonesia.svg"
-    }
-  ],
-
-  "StadiumData": [
-    {
-      "ID": 3001,
-      "Name": "Jakarta International Stadium",
-      "Capacity": 82000
-    },
-    {
-      "ID": 3002,
-      "Name": "Gelora Bandung Lautan Api",
-      "Capacity": 38000
-    },
-    {
-      "ID": 3003,
-      "Name": "Gelora Bung Tomo",
-      "Capacity": 46000
-    }
-  ],
-
   "ClubData": [
     {
       "ID": 5001,
-      "Name": "Persija Jakarta",
-      "ShortName": "PSJ",
+      "Name": "Arema FC",
+      "ShortName": "ARE",
       "LeagueID": 2001,
-      "StadiumID": 3001,
-      "ImageURL": "https://i.ibb.co/V9yx7vb/persija.png"
+      "ImageURL": "https://i.ibb.co/zSjzwSx/arema.png"
     },
     {
       "ID": 5002,
-      "Name": "Persib Bandung",
-      "ShortName": "PSB",
+      "Name": "Bali United",
+      "ShortName": "BLI",
       "LeagueID": 2001,
-      "StadiumID": 3002,
-      "ImageURL": "https://i.ibb.co/dczQcqN/persib.png"
+      "ImageURL": "https://i.ibb.co/JKJbzQf/baliutd.png"
     },
     {
       "ID": 5003,
-      "Name": "Persebaya Surabaya",
-      "ShortName": "PRB",
+      "Name": "Bhayangkara Presisi Lampung FC",
+      "ShortName": "BPL",
       "LeagueID": 2001,
-      "StadiumID": 3003,
+      "ImageURL": "https://i.ibb.co/9VVXmyp/bhayangkara.png"
+    },
+    {
+      "ID": 5004,
+      "Name": "Borneo FC",
+      "ShortName": "BOR",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/CH4WMCt/persela.png"
+    },
+    {
+      "ID": 5005,
+      "Name": "Dewa United Banten FC",
+      "ShortName": "DUB",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/2sGW3Q5/madura.png"
+    },
+    {
+      "ID": 5006,
+      "Name": "Madura United",
+      "ShortName": "MAD",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/2sGW3Q5/madura.png"
+    },
+    {
+      "ID": 5007,
+      "Name": "Malut United",
+      "ShortName": "MLU",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/zZyyCHh/persik.png"
+    },
+    {
+      "ID": 5008,
+      "Name": "Persebaya Surabaya",
+      "ShortName": "PBY",
+      "LeagueID": 2001,
       "ImageURL": "https://i.ibb.co/sRWsqBg/persebaya.png"
-    }
-  ],
-
-  "PlayerData": [
-    {
-      "ID": 100001,
-      "Forename": "Andritany",
-      "Surname": "Ardhiyasa",
-      "ClubID": 5001,
-      "Position": "GK",
-      "Nationality": "Indonesia",
-      "Age": 33,
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Andritany_Ardhiyasa.jpg"
     },
     {
-      "ID": 100002,
-      "Forename": "Riko",
-      "Surname": "Simanjuntak",
-      "ClubID": 5001,
-      "Position": "RW",
-      "Nationality": "Indonesia",
-      "Age": 32,
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Riko_Simanjuntak.jpg"
+      "ID": 5009,
+      "Name": "Persib Bandung",
+      "ShortName": "PSB",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/dczQcqN/persib.png"
     },
     {
-      "ID": 100003,
-      "Forename": "Marko",
-      "Surname": "Simic",
-      "ClubID": 5001,
-      "Position": "ST",
-      "Nationality": "Croatia",
-      "Age": 36,
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Marko_Simic_Persija.jpg"
-    },
-
-    {
-      "ID": 100101,
-      "Forename": "Teja",
-      "Surname": "Paku Alam",
-      "ClubID": 5002,
-      "Position": "GK",
-      "Nationality": "Indonesia",
-      "Age": 30,
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/Teja_Paku_Alam.jpg"
+      "ID": 5010,
+      "Name": "Persija Jakarta",
+      "ShortName": "PSJ",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/V9yx7vb/persija.png"
     },
     {
-      "ID": 100102,
-      "Forename": "Marc",
-      "Surname": "Klok",
-      "ClubID": 5002,
-      "Position": "CM",
-      "Nationality": "Indonesia",
-      "Age": 31,
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Marc_Klok.jpg"
-    },
-
-    {
-      "ID": 100201,
-      "Forename": "Ernando",
-      "Surname": "Ari",
-      "ClubID": 5003,
-      "Position": "GK",
-      "Nationality": "Indonesia",
-      "Age": 22,
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ernando_Ari.jpg"
+      "ID": 5011,
+      "Name": "Persijap Jepara",
+      "ShortName": "PJP",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/yqN512b/persikabo.png"
     },
     {
-      "ID": 100202,
-      "Forename": "Bruno",
-      "Surname": "Moreira",
-      "ClubID": 5003,
-      "Position": "LW",
-      "Nationality": "Brazil",
-      "Age": 25,
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bruno_Moreira_Persebaya.jpg"
+      "ID": 5012,
+      "Name": "Persik Kediri",
+      "ShortName": "PSK",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/zZyyCHh/persik.png"
+    },
+    {
+      "ID": 5013,
+      "Name": "Persis Solo",
+      "ShortName": "PSS",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/LgWpk7L/persipura.png"
+    },
+    {
+      "ID": 5014,
+      "Name": "Persita Tangerang",
+      "ShortName": "PTG",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/CH4WMCt/persela.png"
+    },
+    {
+      "ID": 5015,
+      "Name": "PSBS Biak",
+      "ShortName": "PSB",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/yFs6013/barito.png"
+    },
+    {
+      "ID": 5016,
+      "Name": "PSIM Yogyakarta",
+      "ShortName": "PSI",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/yqN512b/persikabo.png"
+    },
+    {
+      "ID": 5017,
+      "Name": "PSM Makassar",
+      "ShortName": "PSM",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/JKJbzQf/baliutd.png"
+    },
+    {
+      "ID": 5018,
+      "Name": "Semen Padang",
+      "ShortName": "SPG",
+      "LeagueID": 2001,
+      "ImageURL": "https://i.ibb.co/yFs6013/barito.png"
     }
   ]
 }
